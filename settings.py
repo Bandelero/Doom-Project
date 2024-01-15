@@ -10,6 +10,7 @@ PLAYER_POS = 1.5, 5
 PLAYER_ANGLE = 0
 PLAYER_SPEED = 0.004
 PLAYER_ROT_SPEED = 0.002
+#Left off at this point 21:31 in video
 
 FOV = math.pi / 3
 HALF_FOV = FOV / 2
